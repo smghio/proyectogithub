@@ -1,0 +1,12 @@
+Hola cheks, como les dije, no hay que cargar la carpeta node_modules y el profe no iba a ser la excepción so...
+Como podrán ver a simple vista, no está dicha carpeta entonces los pasos a seguir son: 
+1- descargar el codigo
+2- en caso de ser necesario, descomprimirlo en nuestro escritorio
+3- posicionarnos desde la consola sobre la carpeta descargada y descomprimida ( si fue necesario ) .
+4- ejecutar el comando: npm install 
+5- esperar a que cargue todo ( esto va a generar la carpeta node_modules )
+6- ejecutar el comando: npm run watch-css
+7- ya tienen levantado sass.
+
+Cualquier cosa me escriben terricolas. 
+Abz.
