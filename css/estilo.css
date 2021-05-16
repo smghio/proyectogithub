@@ -426,3 +426,30 @@ textarea {
     transform: rotate(360deg);
   }
 }
+
+
+/*--------------------------------------------------------------
+# General
+--------------------------------------------------------------*/
+body {
+  font-family: "Open Sans", sans-serif;
+  color: #444444;
+}
+
+a {
+  color: #e43c5c;
+}
+
+a:hover {
+  color: #ea6981;
+  text-decoration: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Nunito", sans-serif;
+}
+
+.contact .info .email:hover i, .contact .info .address:hover i, .contact .info .phone:hover i {
+  background: #e43c5c;
+  color: #fff;
+}
